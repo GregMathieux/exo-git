@@ -8,3 +8,8 @@ h1{
   color: red;
   background-color: #000;
 }
+#langue{
+  border: 20px solid black;
+  color: magenta;
+  background-color: rgb(19, 218, 195);
+}
